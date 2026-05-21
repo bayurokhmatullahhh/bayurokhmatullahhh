@@ -2,7 +2,7 @@
 
 <!-- FITUR UTAMA: TEKS BERJALAN (MARQUEE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Information+Systems+Student;UI%2FUX+Designer+%26+Developer;Full-Stack+Laravel+%26+Flutter;Building+Smart+Urban+Ecosystems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Information+Systems+Student;UI%2FUX+Designer+%26+Developer;Full-Stack+Laravel+%26+Flutter;Building+Smart+Urban+Ecosystems;Information+Technology+Consultant" alt="Typing SVG" />
 </p>
 
 ---
