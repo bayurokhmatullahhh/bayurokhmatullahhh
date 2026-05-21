@@ -31,19 +31,19 @@ Halo! Saya **Bayu Rokhmatullah**, seorang *Information Systems Student* yang ber
 
 ---
 
-### 📊 GitHub Stats (Biar Profil Kelihatan Rame & Aktif)
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <!-- Grafik Kontribusi / Aktivitas GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   
   <!-- Bahasa Pemrograman yang Paling Sering Digunakan -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
   <!-- Grafik Garis Kontribusi Mingguan -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayurokhmatullahhh&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayurokhmatullahhh&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
