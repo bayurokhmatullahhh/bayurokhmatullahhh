@@ -8,7 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-Halo! Saya **Bayu Rokhmatullah**, seorang *Information Systems Student* yang berfokus pada pengembangan solusi digital modern dan cerdas. Saya memiliki passion besar dalam merancang antarmuka pengguna yang premium (**UI/UX**) serta mengintegrasikan sistem backend yang kokoh dengan kecerdasan buatan (*Machine Learning*).
+Halo! Saya **Bayu Rokhmatullah**, seorang *Information Systems Student* yang berfokus pada pengembangan solusi digital modern dan cerdas. Saya memiliki passion besar dalam merancang antarmuka pengguna yang premium dalam mengintegrasikannya kedalam sistem serta membangun backend yang kokoh dengan kecerdasan buatan (*Machine Learning, Deep Learning*).  Saya memiliki kemampuan analisis dan problem solving yang baik, mampu bekerja dalam 
+tim, serta memiliki semangat belajar yang tinggi untuk terus mengembangkan kemampuan di bidang information Systems dan software development. 
 
 * 🏙️ **Fokus Riset:** Mengembangkan konsep *Smart Urban Ecosystem* & *Public Health Platforms*.
 * 🚀 **Proyek Saat Ini:** Membangun *Smart Urban Health* (Sistem Triase & Chatbot berbasis AI).
@@ -34,16 +35,11 @@ Halo! Saya **Bayu Rokhmatullah**, seorang *Information Systems Student* yang ber
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Grafik Kontribusi / Aktivitas GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <!-- Menggunakan server mirror alternatif banyubintang -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   
-  <!-- Bahasa Pemrograman yang Paling Sering Digunakan -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Grafik Garis Kontribusi Mingguan -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayurokhmatullahhh&theme=radical" alt="GitHub Streak" width="97%" />
+  <!-- Bahasa Pemrograman Teratas -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </p>
 
 ---
