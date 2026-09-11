@@ -1,7 +1,7 @@
 # 👋 Welcome! I'm Bayu Rokhmatullah
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Information+Systems+Student;UI%2FUX+Designer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
