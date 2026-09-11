@@ -1,50 +1,83 @@
-# 🔥 Welcome toooooooooo! 🚀
+# 👋 Welcome! I'm Bayu Rokhmatullah
 
-<!-- FITUR UTAMA: TEKS BERJALAN (MARQUEE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Information+Systems+Student;UI%2FUX+Designer+%26+Developer;Full-Stack+Laravel+%26+Flutter;Building+Smart+Urban+Ecosystems;Information+Technology+Consultant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Information+Systems+Student;UI%2FUX+Designer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-Halo! Saya **Bayu Rokhmatullah**, seorang *Information Systems Student* yang berfokus pada pengembangan solusi digital modern dan cerdas. Saya memiliki passion besar dalam merancang antarmuka pengguna yang premium dalam mengintegrasikannya kedalam sistem serta membangun backend yang kokoh dengan kecerdasan buatan (*Machine Learning, Deep Learning*).  Saya memiliki kemampuan analisis dan problem solving yang baik, mampu bekerja dalam 
-tim, serta memiliki semangat belajar yang tinggi untuk terus mengembangkan kemampuan di bidang information Systems dan software development. 
+## 🎯 About Me
 
-* 🏙️ **Fokus Riset:** Mengembangkan konsep *Smart Urban Ecosystem* & *Public Health Platforms*.
-* 🚀 **Proyek Saat Ini:** Membangun *Smart Urban Health* (Sistem Triase & Chatbot berbasis AI).
-* 🛠️ **Prinsip Desain:** Bersih, modern, elegan, dan *user-centered*.
+I'm **Bayu Rokhmatullah**, an Information Systems student passionate about building modern digital solutions that make a real impact. With a strong foundation in software development and UI/UX design, I focus on creating user-centered applications that solve real-world problems.
+
+- 🏫 **Education:** Information Systems Student
+- 🎨 **Specialization:** UI/UX Design & Full Stack Development
+- 🏙️ **Research Focus:** Smart Urban Ecosystem & Public Health Platforms
+- 🚀 **Current Project:** Smart Urban Health (AI-powered Triage System & Chatbot)
+- 💡 **Design Philosophy:** Clean, modern, elegant, and always user-first
+- 🌱 **Passion:** Learning new technologies and best practices in software engineering
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
 <p align="left">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Design & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Menggunakan server mirror alternatif banyubintang -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Bahasa Pemrograman Teratas -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayurokhmatullahhh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayurokhmatullahhh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **Smart Urban Health** - AI-powered health triage system with intelligent chatbot
+- **UI/UX Design Portfolio** - Modern and clean interface designs for various applications
+
+---
+
+## 📫 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bayurokhmatullahhh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/bayurokhmatullahhh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Transforming complex data into elegant digital solutions."</i> <br>
-  © 2026 | Crafted with ❤️ by Bayu Ganteng
+  <i>"Transforming complex problems into elegant digital solutions."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=bayurokhmatullahhh&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  © 2026 | Crafted with ❤️ by Bayu Rokhmatullah
 </p>
