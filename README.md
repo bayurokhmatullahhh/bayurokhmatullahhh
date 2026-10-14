@@ -11,9 +11,8 @@
 I'm **Bayu Rokhmatullah**, an Information Systems student passionate about building modern digital solutions that make a real impact. With a strong foundation in software development and UI/UX design, I focus on creating user-centered applications that solve real-world problems.
 
 - 🏫 **Education:** Information Systems Student
-- 🎨 **Specialization:** UI/UX Design & Full Stack Development
-- 🏙️ **Research Focus:** Smart Urban Ecosystem, & Public Platforms
-- 🚀 **Current Project:** Smart Urban Health (AI-powered Triage System & Chatbot)
+- 🎨 **Specialization:** Full Stack Development
+- 🏙️ **Research Focus:** Urban Ecosystem, & Public Platforms
 - 💡 **Design Philosophy:** Clean, modern, elegant, and always user-first
 - 🌱 **Passion:** Learning new technologies and best practices in software engineering
 
